@@ -14,6 +14,9 @@ public class Facebook2 {
 			driver.get("https://www.facebook.com");
 			WebElement txtLogin = driver.findElement(By.id("email"));
 			txtLogin.sendKeys("java");
+			int 2;
+			System.out.println(2);
+			
 
 }
 	}
